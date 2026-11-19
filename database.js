@@ -11,7 +11,7 @@ const AgriDB = (function() {
             }));
         }
     }
-    
+    //hello
     // Save a recommendation
     function saveRecommendation(data) {
         const db = JSON.parse(localStorage.getItem(DB_NAME));
